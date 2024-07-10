@@ -1,0 +1,9 @@
+.container{
+    border: 1px solid #000;
+    margin-top: 10%;
+    padding: 20px;
+}
+.center{
+    margin: 20px;
+    padding: 20px;
+}
